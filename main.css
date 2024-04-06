@@ -1,7 +1,13 @@
-body{
+body, h1{
     font-family: arial;
     font-weight: bold;
     background-color: #0B2B5E;
+}
+
+h1{
+    color: white;
+    text-align: center;
+    font-size: 50px;
 }
 
 th{
