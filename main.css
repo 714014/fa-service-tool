@@ -18,6 +18,7 @@ tr td{
 input{
     padding: 10px;
     font-size: 20px;
+    width: 90%;
 }
 
 button{
@@ -28,6 +29,10 @@ button{
     background-color: #E51234;
     border: none;
     cursor: pointer;
+}
+
+.table, table{
+    width: 100vw;
 }
 
 .seat-row{
