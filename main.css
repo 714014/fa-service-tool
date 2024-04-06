@@ -1,0 +1,36 @@
+body{
+    font-family: arial;
+    font-weight: bold;
+    background-color: #0B2B5E;
+}
+
+th{
+    font-size: 20px;
+    color: white;
+}
+
+
+
+tr td{
+    padding-top: 15px;
+}
+
+input{
+    padding: 10px;
+    font-size: 20px;
+}
+
+button{
+    padding: 10px;
+    font-size: 15px;
+    font-weight: bold;
+    color: white;
+    background-color: #E51234;
+    border: none;
+    cursor: pointer;
+}
+
+.seat-row{
+    font-size: 20px;
+    color: white;
+}
