@@ -17,13 +17,13 @@ tr td{
 
 input{
     padding: 10px;
-    font-size: 20px;
+    font-size: 50px;
     width: 90%;
 }
 
 button{
     padding: 10px;
-    font-size: 15px;
+    font-size: 50px;
     font-weight: bold;
     color: white;
     background-color: #E51234;
